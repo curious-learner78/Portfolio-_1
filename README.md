@@ -41,7 +41,7 @@
         Developed model image-based fruit quality classification. Applied data preprocessing and feature extraction for model training.</p>
     </div>
     <div class="item">
-        <h3>Online Evaluation Portal (Python, SQL)</h3>
+        <h3>Online Evaluation Portal (Php, SQL)</h3>
         <p><em>2024</em><br>
         Built a database system to store and analyze student evaluation data.</p>
     </div>
